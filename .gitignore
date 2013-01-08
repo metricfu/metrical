@@ -3,3 +3,4 @@
 pkg/*
 .rvmrc
 tmp/
+Gemfile.lock
