@@ -12,6 +12,7 @@ Gem::Specification.new do |s|
   s.homepage             = "https://github.com/metricfu/metrical"
   s.summary              = %q{Run metric_fu without making it a project dependency}
   s.description          = %q{MetricFu no longer need metrical. It runs on the commandline all by itself}
+  s.license              = 'MIT'
   s.post_install_message = Metrical.message
 
   s.rubyforge_project    = "metrical"
